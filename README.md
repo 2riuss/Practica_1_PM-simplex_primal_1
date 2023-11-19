@@ -1,0 +1,2 @@
+Repository per a fer la segona pràctica de programació matemàtica.
+La practica consisteix implementar l'algorisme del simplex primal 1 vist a classe de programació matemàtica. Seguint les consideracions contingudes en la [especificació de la pràctica](pm_Enunciat_pràctica_ASP1_curs23-24.pdf).
